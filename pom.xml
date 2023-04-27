@@ -37,7 +37,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>io.millesabords.krakra.standalone.Main</mainClass>
+                                    <mainClass>io.millesabords.krakra.example.BasicBroker</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

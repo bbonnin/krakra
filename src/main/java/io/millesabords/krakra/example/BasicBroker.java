@@ -1,8 +1,8 @@
-package io.millesabords.krakra.standalone;
+package io.millesabords.krakra.example;
 
 import io.millesabords.krakra.Broker;
 
-public class Main {
+public class BasicBroker {
 
     public static void main(String[] args) {
         Broker broker = Broker.get();
